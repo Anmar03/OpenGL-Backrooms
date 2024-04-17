@@ -1,0 +1,1 @@
+# CG - Lecture 5 - 0 - Skeleton start
