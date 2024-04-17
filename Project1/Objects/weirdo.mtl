@@ -1,0 +1,13 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl PartygoerMaterial
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.009961 0.009961 0.009961
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Users/saoud/Downloads/backrooms/source/backrooms-main-menu-obj/Partygoer.png
+map_Bump C:/Users/saoud/Downloads/backrooms/source/backrooms-main-menu-obj/Partygoer.png

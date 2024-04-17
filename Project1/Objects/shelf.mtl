@@ -1,0 +1,13 @@
+# Blender 4.0.2 MTL File: 'Backrooms kit.blend'
+# www.blender.org
+
+newmtl Door_wood.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.318537 0.318537 0.318537
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks C:/Panel Mahogany_Ref.jpg
+map_Ns C:/Panel Mahogany_Rou.jpg
+map_Bump -bm 1.000000 C:/Panel Mahogany_Nor.jpg
