@@ -1,1 +1,1 @@
-# CG - Lecture 5 - 0 - Skeleton start
+# Computer Graphics OpenGL Backrooms inspired project
